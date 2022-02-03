@@ -12,4 +12,4 @@ I will create new branches to add more base project with various kind of scalabl
 
 > ## :electric_plug:  Plugins inside
 
-This project has been bootstraped with [Nylo](https://github.com/nylo-core/nylo)
+This project has been bootstraped with [Nylo](https://github.com/nylo-core/nylo). It uses also [issar](https://pub.dev/packages/isar).
